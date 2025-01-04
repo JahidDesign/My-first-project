@@ -342,9 +342,24 @@
     padding: 2px;
     margin: 2px;
     width: 100%;
-    height: 500px;
+    height: 420px;
     background-size: cover;
     background-image: url('../image/footterBlog.png');
+}
+.fotterDiv1{
+    padding:0;
+    margin:0;
+    width:100%;
+    height:310px;
+    float: left;
+}
+.fotterDiv2{
+ padding:0;
+ margin:0;
+ width:100%;
+ height:110px;
+ float: left;
+ border-top: 2px solid;
 }
 .divfotter1{
     margin: 10px 4px;
@@ -353,42 +368,82 @@
     position: relative;
     float: left;
 }
-
 .conFot{
     margin-top:12%;
     margin-left:5%;
     width:100%;
     height:100%;
-    
+    float: right;
 }
-
 .conlabe{
     padding: 0;
     margin: 0;
    font-size:24px;
-   font-family: 'Times New Roman', Times, serif;
-    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
     margin-top:2px;
     margin-bottom: 2px;
-    color: black;
+    color: rgb(239, 228, 228);
     font-weight: bold;
-}
-.headcon{
-    text-transform: uppercase;
-    text-shadow:20px;
-    text-align: center;
-    border-bottom:2px solid;
 }
 .navfootter{
     padding: 0;
     margin: 0;
     list-style:none;
+    margin-left:10%;
+    margin-top:5%;
 }
 .fotlink{
     padding:0;
     margin:0;
+    text-align: center;
     text-decoration: none;
-    color: black;
+    color: whitesmoke;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.lastfot{
+    padding:2px;
+    margin-top:30px;
+    font-size:22px;
+    color:rgb(24, 1, 1);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.jahid{
+    text-decoration: none;
+    color: rgb(28, 26, 26);
+}
+.trlp_ul{
+    padding: 0;
+    margin: 0;
+    list-style:none;
+    margin-left:10%;
+    margin-top:5%;
+}
+.trpl_li{
+    
+}
+.trpl_a{
+    padding:0;
+    margin:0;
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.trapl{
+    padding: 0;
+    margin: 4px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    border-bottom: 2px solid;
+    
 }
