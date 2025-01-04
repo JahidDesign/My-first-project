@@ -1,0 +1,86 @@
+
+.main_div{
+    position: relative;
+    width: 100%;
+    height: 40rem;
+   background-size: cover;
+   background-image: url('../image/travel.png');
+}
+.logo{
+    padding: 0;
+    margin: 0;
+    width:300px;
+    height: 95px;
+}
+.travel{
+    padding: 0;
+    margin: 0;
+    width: 94.5rem;
+    height: 40rem;
+}
+.navDiv{
+    padding: 0;
+    margin: 0;
+    width:100%;
+    height:5rem;
+    float:right;
+    background-color:#d1d5d628;
+    border-bottom:solid;
+    
+}
+.heading-title{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       color: black;
+       margin-left: 2rem;
+       margin-top:14rem;
+   }
+
+   .un_navDiv{
+       margin-right: 25px;
+       float: right;
+       list-style: none;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: larger;
+      
+   }
+   
+   .nav_navli{
+       float: left;
+       margin: 2px;
+       padding: 2px;
+       padding-right: 8px;
+       padding-left: 8px;
+       font-size: 22px;
+   }
+   
+   .profliImg{
+    padding: 2px;
+    margin: 0;
+    width:150px;
+    height: 150px;
+    border-radius: 50% ;
+    float: right;
+    margin-right: 15%;
+    margin-top: 25%;
+}
+.travel-pera{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 2rem;
+    margin-top:0rem;
+    font-size: 16px;
+  
+}
+.t_but{
+    padding: 4px;
+    margin: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: #0d9ac5;
+    color: black;
+    border-radius: 5%;
+    padding-left: 10px;
+   
+
+}

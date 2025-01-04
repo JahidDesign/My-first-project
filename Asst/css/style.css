@@ -1,0 +1,382 @@
+
+.main_div{
+    position: relative;
+    width: 100%;
+    height: 40rem;
+   background-size: cover;
+  background-image: url('../image/travel.png');
+   
+
+}
+.logo{
+    padding: 0;
+    margin: 0;
+    width:300px;
+    height: 95px;
+}
+.travel{
+    padding: 0;
+    margin: 0;
+    width: 94.5rem;
+    height: 40rem;
+}
+.navDiv{
+    padding: 0;
+    margin: 0;
+    width:100%;
+    height:5rem;
+    float:right;
+    background-color:#d1d5d628;
+    border-bottom:solid;
+  
+    
+    
+}
+
+.travel-pera{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 2rem;
+    margin-top:0rem;
+    font-size: 16px;
+  
+}
+.heading-title{
+
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 2rem;
+    margin-top:14rem;
+}
+
+.un_navDiv{
+    margin-right: 25px;
+    float: right;
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+   
+}
+
+.nav_navli{
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    padding-right: 8px;
+    padding-left: 8px;
+    font-size: 22px;
+
+}
+.nav_anchor{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.nav_anchor:hover{
+    color: brown;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.t_but{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-right:20%;
+
+}
+.contentDiv{
+   
+    padding: 3px;
+    width: 100%;
+    height: 30rem;
+    position: center;
+    position: absolute;
+}
+.profliImg{
+    padding: 2px;
+    margin: 0;
+    width:150px;
+    height: 150px;
+    border-radius: 50% ;
+    float: right;
+    margin-right: 15%;
+    margin-top: -12%;
+}
+
+.gap{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    width:auto;
+    height:2rem;
+    background-color:white;
+  
+}
+.mamma{
+    font-family: sans-serif;
+    font-style:italic;
+    font-weight: bold;
+    color: darkgrey;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+/*.content{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 22rem;
+    background-color: darkgrey;
+    float: left;
+  
+}*/
+#Content
+{
+    border: 3px solid blue;
+    position: relative;
+    height: 300px;
+    top: 50px;
+   
+}
+
+#divA
+{
+    border: 3px solid black;
+    margin-right: 25px;
+    left: 5px;
+    top: 5px;
+    bottom: 5px;
+    right: 70%;
+    width:47%;
+    position: relative;
+    float: left;
+}
+
+#divB
+{
+    border: 3px solid black;
+    position: static;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+    left: 2%;
+    margin-left: 25px;
+    margin-top: auto;
+    width: 47%;
+    position: relative;
+    float: left;
+}
+
+.div-img{
+    padding:0;
+    margin: 0;
+    width:100%;
+    height:300px;
+}
+.gap2{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-top: 30%;
+    width:auto;
+    height:2rem;
+    background-color:white;
+  
+}
+.about_com{
+    padding: 2px;
+    margin: 0;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image: url('../image/Blue\ Pink\ Photo\ Summer\ Facebook\ Cover.png');
+
+}
+.card_img{
+    border: 3px solid rgb(193, 181, 181);
+    margin-right: 25px;
+    left: 6px;
+    top: 15px;
+    bottom: 10px;
+    right: 70%;
+    width:23%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+.img{
+    padding:0;
+    margin: 0;
+    width: 100%;
+    height:150px;
+
+}
+.place_name{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(2, 2, 21);
+    text-decoration: underline black;
+    text-align: center;
+    margin: 10%;
+ 
+  
+}
+.card_bio{
+    padding: auto;
+    margin:2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: rgb(243, 235, 235);
+    text-align: justify;
+
+}
+.divFrom{
+    padding: 2px;
+    margin: 0;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image: url('../image/sky.png');
+
+}
+.gap3{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-top:5px;
+    width:auto;
+    height:2rem;
+    background-color:white; 
+
+}
+.divFrom1{
+    margin-right: 25px;
+    left: 6px;
+    top: 10px;
+    bottom: 10px;
+    right: 70%;
+    width:48%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+.divFrom2{
+    border: 3px solid rgb(193, 181, 181);
+    margin-right: 25px;
+    left: 6px;
+    top: 10px;
+    bottom: 10px;
+    right: 70%;
+    width:48%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+.grpDiv{
+    margin-top:20px;
+    width:100%;
+    height: 90%;
+}
+.fromInput{
+    padding: 12px 24px;
+    width:70%;
+    margin: 4px 2px;
+    margin-left: 10%;
+    margin-top:2px;
+    color: black;
+    border: none;
+}
+.labelName{
+    padding: 0;
+    margin: 0;
+   font-size:24px;
+   font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-top:2px;
+    margin-bottom: 2px;
+    color: black;
+    font-weight: bold;
+    
+}
+.textfild{
+    padding: 30px 24px;
+    width:70%;
+    margin: 4px 2px;
+    margin-left: 10%;
+    margin-top:2px;
+    color: black;
+    border: none;
+}
+.sub{
+  background-color: white;
+  border: none;
+ float: right;
+  color: black;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-right:20%;
+}
+.travelBlog{
+    padding:2px 3px;
+    margin: 0;
+    width:100%;
+    height:100%;
+}
+.gap3{position: relative;
+    padding: 0;
+    margin: 0;
+    margin-top: 2px;
+    width:auto;
+    height:2rem;
+    background-color:white;
+}
+.fotterDiv{
+    padding: 2px;
+    margin: 2px;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image: url('../image/footterBlog.png');
+}
+.divfotter1{
+    margin: 10px 4px;
+    width:30%;
+    height: 90%;
+    position: relative;
+    float: left;
+}
+
+.conFot{
+    margin-top:12%;
+    margin-left:5%;
+    width:100%;
+    height:100%;
+    
+}
+
+.conlabe{
+    padding: 0;
+    margin: 0;
+   font-size:24px;
+   font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-top:2px;
+    margin-bottom: 2px;
+    color: black;
+    font-weight: bold;
+}
+.headcon{
+    text-transform: uppercase;
+    text-shadow:20px;
+    text-align: center;
+    border-bottom:2px solid;
+}
+
